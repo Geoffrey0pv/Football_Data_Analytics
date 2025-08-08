@@ -42,7 +42,7 @@ h) `pref_foot`
 
 ---
 
-**5. A scout claims that the **best players**, according to their **overall performance rating**, play in clubs that belong to the **“Top 5 leagues”** (England, Spain, Germany, Italy, and France). What can you say about these two claims based on descriptive analysis**?
+**5. A scout claims that the **best players**, according to their **overall performance rating**, play in clubs that belong to the **“Top 5 leagues”** (England, Spain, Germany, Italy, and France). What can you say about these two claims based on descriptive analysis?**
 
 ---
 
